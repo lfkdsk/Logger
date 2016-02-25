@@ -2,6 +2,7 @@ package logger
 
 import (
 	"testing"
+	"github.com/lfkdsk/Logger"
 )
 
 func TestExample(t *testing.T) {
