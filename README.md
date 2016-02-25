@@ -17,7 +17,7 @@ Logger For Go
 
 详细样式：  
 ![pic](art/pic.png)  
-普通样式：
+普通样式：  
 ![pic2](art/pic2.png)
 
 ## 如何使用
